@@ -1,0 +1,33 @@
+.hero-btn {
+border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+max-width: 169px;
+background: #4d5ae5;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+   background: #404bbf;
+}
+
+.hero {
+padding: 0 15px;
+width: 1158px;
+height: 224px;
+max-width: 1158px;
+background: #2e2f42;
+
+}
+.hero-title {
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+
+}
+
+
