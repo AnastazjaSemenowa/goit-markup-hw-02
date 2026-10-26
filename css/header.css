@@ -35,6 +35,10 @@ color: #404bbf;
 }
 .socials-item {
 }
+.socials-link {
+  color: #434455; 
+}
+
 .socials-link:hover,
 .socials-link:focus {
 color: #404bbf;
