@@ -1,6 +1,8 @@
 .portfolio {
 }
-
+.portfolio-text {
+    color: #434455;
+}
 .portfolio-title {
 }
 
@@ -14,6 +16,6 @@
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
-color: #434455;
+color: #2e2f42;
 text-align: left;
 }
